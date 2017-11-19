@@ -38,3 +38,14 @@ header{
 .main-nav li a:hover{
     border: 1px solid #fff;
 }
+
+.logo img{
+    width: 100px;
+    height:100px;
+    float: left;
+    margin-left:25px;
+}
+
+.nav{
+    margin: auto;
+}
